@@ -10,9 +10,9 @@
 
 - *After war in Ukraine has started, I decided to change my occupation and started to learn different courses about IT. I have already finished basic HTML, CSS, native Java Script, Node JS and Nest JS courses.*
 - *I am responsible, hardworking and fast learning. And after I have already seen the amazing world of IT, I want to learn new things with even more desire.*
-- *Also I have good communication skills and can rapidly adopted for the current situation, if it's necessary*
+- *Also I have good communication skills and can rapidly adopted for the current situation, if it's necessary.*
 
-## Skills
+## Skills:
 * Basic knowledge of:
 * HTML
 * CSS/SCSS
